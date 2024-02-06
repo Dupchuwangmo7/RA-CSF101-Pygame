@@ -1,4 +1,5 @@
-#Instructions 
+# Instructions 
+
 Welcome to Pong!
 Use the W and S keys to control the left paddle.
 Use the UP and DOWN arrow keys to control the right paddle.
